@@ -5,8 +5,8 @@
  *
  */
 
-#define DEVICE_MANUFACTURER "David B Brown"
-#define DEVICE_NAME "Muti-Sensor"
+#define DEVICE_MANUFACTURER "Lizzus"
+#define DEVICE_NAME "Multi-Sensor"
 #define DEVICE_MODEL "1"
 #define DEVICE_SERIAL "12345678"
 #define FW_VERSION "1.0"
